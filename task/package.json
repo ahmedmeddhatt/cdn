@@ -1,0 +1,20 @@
+{
+  "name": "team022",
+  "version": "1.1.0",
+  "description": "A simple command line tool for helping with CDN packages",
+  "preferGlobal": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedmeddhatt/cdn"
+  },
+  "author": "Tyler Holewinski",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.1.0",
+
+    "ora": "^3.4.0"
+  }
+}
